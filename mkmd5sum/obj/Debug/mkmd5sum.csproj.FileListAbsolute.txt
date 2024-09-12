@@ -1,0 +1,10 @@
+E:\Dev\mkmd5sum\mkmd5sum\bin\Debug\mkmd5sum.exe.config
+E:\Dev\mkmd5sum\mkmd5sum\bin\Debug\mkmd5sum.exe
+E:\Dev\mkmd5sum\mkmd5sum\bin\Debug\mkmd5sum.pdb
+E:\Dev\mkmd5sum\mkmd5sum\obj\Debug\mkmd5sum.csproj.AssemblyReference.cache
+E:\Dev\mkmd5sum\mkmd5sum\obj\Debug\mkmd5sum.Form1.resources
+E:\Dev\mkmd5sum\mkmd5sum\obj\Debug\mkmd5sum.Properties.Resources.resources
+E:\Dev\mkmd5sum\mkmd5sum\obj\Debug\mkmd5sum.csproj.GenerateResource.cache
+E:\Dev\mkmd5sum\mkmd5sum\obj\Debug\mkmd5sum.csproj.CoreCompileInputs.cache
+E:\Dev\mkmd5sum\mkmd5sum\obj\Debug\mkmd5sum.exe
+E:\Dev\mkmd5sum\mkmd5sum\obj\Debug\mkmd5sum.pdb

@@ -1,0 +1,15 @@
+English:
+
+Usage: mkmd5sum.exe [command] [directory]
+
+Commands: cre - Create md5sum.xml file
+          ver - Verifies files in the directory based on existing md5sum.xml file in that directory
+
+____________________
+
+German:
+
+Nutzung: mkmd5sum [Befehl] [Ordnerpfad]
+
+Befehle: cre - Erstellt neue md5sum.xml Datei.
+         ver - Verifiziert die Dateien eines Ordners basierend auf existierender md5sum.xml Datei.
